@@ -22,8 +22,8 @@ It supports basic arithmetic operations: Addition, Subtraction, Multiplication, 
 
 1. Clone this repository :
 
-            git clone https://github.com/Amrutha-Poojary/calculator_app.git
+        git clone https://github.com/Amrutha-Poojary/calculator_app.git
 
 2. Run the script : 
 
-            python calculator.py
+        python calculator.py
